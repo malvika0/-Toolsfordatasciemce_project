@@ -1,1 +1,1 @@
-# Analyzing Historical Stock/Revenue Data and Building 
+# Extracting and Visualizing Stock Data Python Project
