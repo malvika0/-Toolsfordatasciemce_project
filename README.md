@@ -1,2 +1,1 @@
-# -Toolsfordatasciemce_project
-Analyzing Historical Stock/Revenue Data and Building 
+# Analyzing Historical Stock/Revenue Data and Building 
